@@ -33,18 +33,18 @@ The [Bill of Materials](/Documentation/Peppa_Pig_BOM_v1.0.xlsx) lists all of the
 
 ### 3. Assemble the Switch Adapted Peppa Pig Toy
 
-Reference the [Assembly Guide](/Documentation/Device-Name_Assembly_Guide_v1.0.pdf) for the tools and steps required to build each portion.
+Reference the [Assembly Guide](/Documentation/Peppa_Pig_Assembly_Guide_v1.0.pdf) for the tools and steps required to build each portion.
 
 ## Files
 ### Documentation
 | Document             | Version | Link |
 |----------------------|---------|------|
-| Design Rationale     | 1.0     | [DeviceName_Design_Rationale](/Documentation/Peppa_Pig_Design_Rationale_v1.0.pdf)     |
-| Maker Checklist      | 1.0     | [DeviceName_Maker_Checklist](/Documentation/Peppa_Pig_Maker_Checklist_v1.0.pdf)     |
-| Bill of Materials    | 1.0     | [DeviceName_Bill_of_Materials](/Documentation/Peppa_Pig_BOM_v1.0.xlsx)     |
-| Assembly Guide       | 1.0     | [DeviceName_Assembly_Guide](/Documentation/Peppa_Pig_Assembly_Guide_v1.0.pdf)     |
-| User Guide           | 1.0     | [DeviceName_User_Guide](/Documentation/Peppa_Pig_User_Guide_v1.0.pdf)    |
-| Changelog            | 1.0     | [DeviceName_Changelog](/Documentation/Peppa_Pig_Changelog_v1.0.pdf)     |
+| Design Rationale     | 1.0     | [Peppa_Pig_Design_Rationale](/Documentation/Peppa_Pig_Design_Rationale_v1.0.pdf)     |
+| Maker Checklist      | 1.0     | [Peppa_Pig_Maker_Checklist](/Documentation/Peppa_Pig_Maker_Checklist_v1.0.pdf)     |
+| Bill of Materials    | 1.0     | [Peppa_Pig_Bill_of_Materials](/Documentation/Peppa_Pig_BOM_v1.0.xlsx)     |
+| Assembly Guide       | 1.0     | [Peppa_Pig_Assembly_Guide](/Documentation/Peppa_Pig_Assembly_Guide_v1.0.pdf)     |
+| User Guide           | 1.0     | [Peppa_Pig_User_Guide](/Documentation/Peppa_Pig_User_Guide_v1.0.pdf)    |
+| Changelog            | 1.0     | [Peppa_Pig_Changelog](/Documentation/Peppa_Pig_Changelog_v1.0.pdf)     |
 
 
 ## Attribution
